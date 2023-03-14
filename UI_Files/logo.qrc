@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="logo_3">
+    <file>logo_3.png</file>
+  </qresource>
+  <qresource prefix="odeme_ekrani">
+    <file>logo_2.png</file>
+  </qresource>
+</RCC>
